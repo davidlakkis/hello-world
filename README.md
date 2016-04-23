@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi people
+Im mohammed i like programming andweb development
